@@ -1,2 +1,2 @@
 # springcloud-config
-springcloud-config练习
+springcloud-config配置中心练习
